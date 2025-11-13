@@ -1,0 +1,6 @@
+.venv
+pyproject.toml
+uv.lock
+.python-version
+config.bat
+node_modules
